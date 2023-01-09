@@ -23,7 +23,8 @@ function App() {
     </div>
   );
   function Titre(){
-    <h1>Liste des courses</h1>
+    return(
+    <h1>Liste des courses</h1>);
   }
 }
 
